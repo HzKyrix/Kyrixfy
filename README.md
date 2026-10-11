@@ -29,4 +29,4 @@
 
 **SS-1**
 
-[SS-1]([https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square](https://media.discordapp.net/attachments/1556348132248395897/1558970577060896768/image.png?ex=6acd5ffd&is=6acc0e7d&hm=d58620ddf94997c9d03d1be4a841642e4108f8b5da96c94714a2a640ebd8f729&=&format=webp&quality=lossless&width=256&height=90))](github.com/HzKyrix/Kyrixfy/releases)
+[![SS-1](https://media.discordapp.net/attachments/1556348132248395897/1558970577060896768/image.png?ex=6acd5ffd&is=6acc0e7d&hm=d58620ddf94997c9d03d1be4a841642e4108f8b5da96c94714a2a640ebd8f729&=&format=webp&quality=lossless&width=256&height=90)](github.com/HzKyrix/Kyrixfy/releases)
