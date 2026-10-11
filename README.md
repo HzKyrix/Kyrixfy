@@ -2,13 +2,13 @@
   <a href="[https://github.com/HzKyrix/Kyrixfy/releases](https://github.com/HzKyrix/Kyrixfy/releases)"><img src="Kyrixfy/Kyrixfy/icon.ico" /></a>
 </p>
 
-## KYRİXFY
+# KYRİXFY
 
 **Yapay zeka ile kodlanmıştır.**
 
 **ImGui kullanılmıştır, iPhonde'larda bulunan Dynamic Island özelliğine benzer şekilde kodlanmıştır.**
 
-# RENK SEÇENEKLERİ
+## RENK SEÇENEKLERİ
 
 **Siyah**
 **Yeşil**
@@ -17,7 +17,7 @@
 **Açık Mavi**
 **Gri**
 
-# MODLAR
+## MODLAR
 
 **INSERT: Göster/Gizle**
 **Mouse Tekerleği: Ses Yükselt/Azalt**
@@ -25,7 +25,7 @@
 **Sözleri Gör**
 **Çıkış**
 
-# EKRAN GÖRÜNTÜLERİ
+## EKRAN GÖRÜNTÜLERİ
 
 **SS-1**
 
